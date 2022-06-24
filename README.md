@@ -3,8 +3,6 @@
 
 I have created this app flutter with Rest API, API is open source. 
 
-Youtube Tutorials: https://youtube.com/playlist?list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51
-
 
 This app has the following features. 
 
